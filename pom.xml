@@ -11,6 +11,8 @@
 		<module>notification-service</module>
 		<module>common</module>
 		<module>product-manager-ms</module>
+		<module>order-management-service</module>
+		<module>location-service</module>
 	</modules>
 	<groupId>org.example</groupId>
 	<packaging>pom</packaging>
